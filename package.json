@@ -1,0 +1,29 @@
+{
+  "name": "hayblog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "cors": "^2.8.5",
+    "element-ui": "^2.15.6",
+    "express": "^5.0.0-alpha.8",
+    "js-cookie": "^3.0.1",
+    "mongoose": "^6.0.13",
+    "qrcodejs2": "0.0.2",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
